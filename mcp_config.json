@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "LogAnalyzer": {
+            "command": "C:\\Users\\sriva\\Desktop\\MSIS_Project\\Loganalyzer\\.venv\\Scripts\\python.exe",
+            "args": ["analyzer.py"]
+        }
+    }
+}

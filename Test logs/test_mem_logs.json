@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2025-07-27T08:00:01Z",
+    "level": "ERROR",
+    "message": "OutOfMemoryError: Java heap space",
+    "component": "DataProcessor",
+    "stack_trace": "java.lang.OutOfMemoryError: Java heap space"
+  },
+  {
+    "timestamp": "2025-07-27T08:00:15Z",
+    "level": "WARNING",
+    "message": "Memory usage reached 90%",
+    "component": "SystemMonitor"
+  },
+  {
+    "timestamp": "2025-07-27T08:00:30Z",
+    "level": "WARNING",
+    "message": "JVM garbage collection taking longer than usual: 15s",
+    "component": "GCMonitor"
+  }
+]

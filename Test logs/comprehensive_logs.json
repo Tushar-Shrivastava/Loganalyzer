@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2025-07-27T08:15:22Z",
+    "level": "INFO",
+    "message": "Application startup initiated",
+    "component": "MainApplication"
+  },
+  {
+    "timestamp": "2025-07-27T08:15:45Z",
+    "level": "INFO",
+    "message": "Database connection pool initialized with 20 connections",
+    "component": "DatabaseManager"
+  },
+  {
+    "timestamp": "2025-07-27T08:16:12Z",
+    "level": "WARNING",
+    "message": "SSL certificate expires in 30 days",
+    "component": "SecurityService"
+  },
+  {
+    "timestamp": "2025-07-27T08:18:33Z",
+    "level": "ERROR",
+    "message": "Failed to load user preferences",
+    "component": "UserService",
+    "stack_trace": "SQLException: Table 'user_preferences' doesn't exist at UserService.java:156"
+  },
+  {
+    "timestamp": "2025-07-27T08:20:15Z",
+    "level": "INFO",
+    "message": "Cache warming completed successfully",
+    "component": "CacheManager"
+  },
+  {
+    "timestamp": "2025-07-27T08:22:44Z",
+    "level": "DEBUG",
+    "message": "Processing batch job: daily_report_generation",
+    "component": "JobScheduler"
+  },
+  {
+    "timestamp": "2025-07-27T08:25:18Z",
+    "level": "ERROR",
+    "message": "OutOfMemoryError during image processing",
+    "component": "ImageProcessor",
+    "stack_trace": "java.lang.OutOfMemoryError: Java heap space at ImageProcessor.java:89"
+  },
+  {
+    "timestamp": "2025-07-27T08:27:32Z",
+    "level": "WARNING",
+    "message": "High CPU usage detected: 92%",
+    "component": "SystemMonitor"
+  },
+  {
+    "timestamp": "2025-07-27T08:30:07Z",
+    "level": "INFO",
+    "message": "User session created for user_id: 12847",
+    "component": "SessionManager"
+  }
+]

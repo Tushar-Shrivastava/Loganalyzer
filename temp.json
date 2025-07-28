@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2025-07-25T12:34:56Z",
+    "level": "ERROR",
+    "message": "NullPointerException in module AuthService",
+    "component": "AuthService",
+    "stack_trace": "java.lang.NullPointerException at AuthService.java:42"
+  },
+  {
+    "timestamp": "2025-07-25T12:35:10Z",
+    "level": "INFO",
+    "message": "User login successful",
+    "component": "AuthService"
+  },
+  {
+    "timestamp": "2025-07-25T12:35:30Z",
+    "level": "WARNING",
+    "message": "Disk usage exceeded 85%",
+    "component": "StorageMonitor"
+  },
+  {
+    "timestamp": "2025-07-25T12:36:00Z",
+    "level": "ERROR",
+    "message": "Timeout while connecting to PaymentGateway",
+    "component": "PaymentService",
+    "stack_trace": "TimeoutError: Connection to PaymentGateway timed out after 30s"
+  }
+]

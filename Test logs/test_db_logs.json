@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-07-27T08:00:01Z",
+    "level": "ERROR",
+    "message": "Database connection timeout after 30 seconds",
+    "component": "DatabaseService",
+    "stack_trace": "java.sql.SQLException: Connection timed out"
+  },
+  {
+    "timestamp": "2025-07-27T08:00:15Z",
+    "level": "ERROR",
+    "message": "Deadlock detected in transaction processing",
+    "component": "TransactionManager",
+    "stack_trace": "java.sql.SQLException: Deadlock found when trying to get lock"
+  },
+  {
+    "timestamp": "2025-07-27T08:00:30Z",
+    "level": "WARNING",
+    "message": "Connection pool running low: 3/50 connections available",
+    "component": "DatabasePool"
+  }
+]

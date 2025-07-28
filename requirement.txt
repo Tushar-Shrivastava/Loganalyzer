@@ -1,0 +1,20 @@
+# Core dependencies
+streamlit==1.35.0
+nest_asyncio==1.6.0
+anyio==4.3.0
+
+# LangChain and LangGraph
+langchain==0.2.3
+langgraph==0.0.51
+langchain-core==0.2.0
+
+# LangChain Anthropic integration
+langchain-anthropic==0.1.10
+anthropic==0.25.5
+
+# MCP and adapter tools
+mcp==0.1.14
+langchain-mcp-adapters==0.1.6
+
+# For reading JSON logs
+orjson==3.10.3
