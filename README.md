@@ -106,6 +106,19 @@ Enable tool reordering / multiple MCPs
 
 Deploy to Hugging Face / Streamlit Cloud
 
+## Screenshots :-
+
+<img width="641" height="801" alt="Streamlit_app_1" src="https://github.com/user-attachments/assets/f87c6501-8067-406d-8134-709cbd0f1cee" />
+
+<img width="691" height="829" alt="Streamlit_app_2" src="https://github.com/user-attachments/assets/0be2c09e-f943-4a46-abb0-b80a616f1821" />
+
+<img width="598" height="822" alt="Streamlit_app_3" src="https://github.com/user-attachments/assets/2e1d7248-8087-47ec-bb4d-c2dbc5174d62" />
+
+<img width="652" height="267" alt="python_terminal" src="https://github.com/user-attachments/assets/6a83c6d2-56b5-48fc-afa7-2c9eebb7b5ad" />
+
+
+
+
 
 ## 📃 License
 
