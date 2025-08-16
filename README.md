@@ -5,7 +5,7 @@ The **MCP Log Analyzer** is an AI-powered Streamlit app designed to analyze syst
 [Anthropic Claude](https://www.anthropic.com/) LLM to build a powerful multi-agent system.
 
 ---
-
+```
 ## 📁 Project Structure
 
 ├── analyzer.py # MCP server with two tools: analyze_logs & suggest_fix
@@ -18,7 +18,7 @@ The **MCP Log Analyzer** is an AI-powered Streamlit app designed to analyze syst
 ├── Test logs/ # Sample or uploaded logs
 ├── Screenshots/ # UI screenshots
 ├── .venv/ # Python virtual environment
-
+```
 ## Create Virtual Environment
 
 python -m venv .venv
